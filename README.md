@@ -10,7 +10,7 @@
 - Node JS
 
 **Download & Installation:**
-You can download the exe installer from this link and install it.
+You can download the exe installer from [this link](https://www.filexa.in/versions) and install it.
 
 **How to transfer files:**
  
