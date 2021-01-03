@@ -25,4 +25,4 @@ You can download the exe installer from [this link](https://www.filexa.in/versio
 1. **Sender and receiver should be connected to the same network (Wi-Fi/LAN/Hotspot).**
 2. Internet is not required to transfer files.
 3. It is recommended (not mandatory) to add firewall rule for 'Filexa Direct' app.
-4. If the app is unable to connect sender and receiver, please check if you can ping to the other machine and vice versa.
+4. If the app is unable to connect sender and receiver, please check if you can ping to the other machine and vice-versa.
