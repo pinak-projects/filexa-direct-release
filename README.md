@@ -1,6 +1,7 @@
 # Filexa Direct - Share files offline
-> A desktop application to share files on a network without internet connection.
+##### A desktop application to share files on a network without internet connection.
 
+![Filexa Direct Image](https://raw.githubusercontent.com/pinakjakhr/filexa-direct-release/main/Filexa-Direct-Image.PNG)
 
 **Tech Stack:**
 
