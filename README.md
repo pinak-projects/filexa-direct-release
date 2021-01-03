@@ -11,7 +11,7 @@
 
 **Download & Installation:**
 
-You can download the exe installer from [this link](https://www.filexa.in/versions) and install it.
+You can download the exe installer from [this link](https://www.filexa.in/filexa-direct) and install it.
 
 **How to transfer files:**
  
